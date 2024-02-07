@@ -2,3 +2,11 @@ Configuración (1 sola vez en mi compu)
 git config --global user.name "maetenco"
 git config --global user.email marianela.encina@outlook.es
 git config --global --list
+
+
+git init
+
+git add  --->> agrega el archivo en el que estoy
+git add . --->>agrega todo
+
+git commit -m ----> Estoy guardando el actual archivo 
