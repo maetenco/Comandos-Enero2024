@@ -1,0 +1,4 @@
+Configuración (1 sola vez en mi compu)
+git config --global user.name "maetenco"
+git config --global user.email marianela.encina@outlook.es
+git config --global --list
