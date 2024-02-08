@@ -9,4 +9,16 @@ git init
 git add  --->> agrega el archivo en el que estoy
 git add . --->>agrega todo
 
+
+
+Inicializar REPO LOCAL Y EMPUJAR:
+1) git init - inicializa una carpeta como un repositorio localmente
+2) git add NombreArchivo git add .
+3) git commit -m "Mensaje para el commit"
+4) git remote add origin url-del-github
+5) git push -u origin master | git push -u origin marianela
+
+SI hago cambios debo hacer los pasos:
+2, 3 y 5
+
 git commit -m "mensaje de mi punto de guardado"  ----> Estoy guardando el actual archivo y agrego un emnsaje para entender qué estoy haciendo
