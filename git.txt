@@ -9,4 +9,4 @@ git init
 git add  --->> agrega el archivo en el que estoy
 git add . --->>agrega todo
 
-git commit -m ----> Estoy guardando el actual archivo 
+git commit -m "mensaje de mi punto de guardado"  ----> Estoy guardando el actual archivo y agrego un emnsaje para entender qué estoy haciendo
